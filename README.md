@@ -147,13 +147,11 @@ flutter:
 | https://user-images.githubusercontent.com/67234937/171351265-2f013a6e-5ee5-4cb3-ab93-6040c5d273dd.mp4 | https://user-images.githubusercontent.com/67234937/171351294-b8326a2a-9cfa-44c6-96f9-e11db400b593.mp4 |
 
 ***
-# 6. Role
-
-<table>
-<tr> <td>심우석(201636417)</td> <td>qkqh8639@gmail.com</td> <td>Lightweight, Flutter, Documentation</td> </tr>
-<tr> <td>오찬희(201735855)</td> <td>fasvvc@gmail.com</td> <td>Modeling, Lightweight, Documentation</td> </tr>
-<tr> <td>김다혜(201835414)</td> <td>ekgp3987@naver.com</td> <td>Modeling, Flutter, Documentation</td> </tr>
-<tr> <td>선다혜(201835466)</td> <td>adad05011@gachon.ac.kr</td> <td>Modeling, LightWeight, Documentation</td> </tr>
+# 6. Role<table>
+<tr> <td>심우석(201636417)</td> <td>qkqh8639@gmail.com</td> <td>Model Lightweight(Parameter optimization), Server, Flutter</td> </tr>
+<tr> <td>오찬희(201735855)</td> <td>fasvvc@gmail.com</td> <td>Model Lightweight(Parameter optimization), Modeling, Server, Flutter</td> </tr>
+<tr> <td>김다혜(201835414)</td> <td>ekgp3987@naver.com</td> <td>Modeling, Flutter</td> </tr>
+<tr> <td>선다혜(201835466)</td> <td>adad05011@gachon.ac.kr</td> <td>Model Lightweight(Parameter optimization), Modeling, Flutter</td> </tr>
 </table>
 
 ***
